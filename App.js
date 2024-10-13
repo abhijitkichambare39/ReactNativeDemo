@@ -63,8 +63,12 @@ const styles = StyleSheet.create({
 =======
 const styles = StyleSheet.create({
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 8310955 (Initial commit)
   container: {
+=======
+  appContainer: {
+>>>>>>> 1329511 (initial)
 =======
   appContainer: {
 >>>>>>> 1329511 (initial)
