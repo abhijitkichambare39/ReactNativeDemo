@@ -10,7 +10,11 @@ export default function App() {
   );
 }
 
+<<<<<<< HEAD
 const styles = StyleSheet.create({ 
+=======
+const styles = StyleSheet.create({
+>>>>>>> 8310955 (Initial commit)
   container: {
     flex: 1,
     backgroundColor: '#fff',
