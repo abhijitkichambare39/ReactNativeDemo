@@ -62,16 +62,7 @@ export default function App() {
 const styles = StyleSheet.create({ 
 =======
 const styles = StyleSheet.create({
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 8310955 (Initial commit)
-  container: {
-=======
   appContainer: {
->>>>>>> 1329511 (initial)
-=======
-  appContainer: {
->>>>>>> 1329511 (initial)
     flex: 1,
     paddingTop: 50,
     paddingHorizontal: 16,
