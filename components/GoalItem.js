@@ -11,7 +11,7 @@ function GoalItem(props) {
         <Text style={styles.goalText}>{props.text}</Text>
       </Pressable>
     </View>
-  ); 
+  );
 }
 
 export default GoalItem;
